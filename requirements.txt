@@ -1,0 +1,2 @@
+Pyrogram==1.0.7
+pokepy==0.6.1
